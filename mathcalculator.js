@@ -11,4 +11,4 @@ function calculate(num1, num2, operator) {
         console.log("Operator not defined")
     }
 }
-console.log(calculate(90, 10, '*'));
+console.log(calculate(90, 10, '-'));

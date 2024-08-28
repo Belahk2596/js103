@@ -6,3 +6,4 @@ function kilosToPounds(kilograms) {
   return kilograms * 2.2;
 }
 console.log(kilosToPounds(20));
+
